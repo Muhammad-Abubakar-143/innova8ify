@@ -862,7 +862,7 @@ spaces
 }
 
 .mil-mb-30 {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .mil-mb-60 {
@@ -2650,13 +2650,13 @@ social icons
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
 .mil-social-icons li a:hover {
-  color: rgb(255, 152, 0);
+  color: rgb(20, 184, 166);
 }
 .mil-social-icons.mil-dark li a {
   color: rgb(0, 0, 0);
 }
 .mil-social-icons.mil-dark li a:hover {
-  color: rgb(255, 152, 0);
+  color: rgb(20, 184, 166);
 }
 
 /* -------------------------------------------
