@@ -1050,3 +1050,10 @@ $(function () {
     });
 
 });
+
+
+
+const swup = new Swup({
+    containers: ["#swupMenu"], // or your main container
+    linkSelector: 'a[href^="/"], a[href^="./"], a[href^="../"], a[href^="#"]'
+});
